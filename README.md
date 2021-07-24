@@ -19,3 +19,7 @@ Lab 9: Arrays.
 
 Lab 10: NTCAs. 
 
+Lab 11: Encryption (File I/O). 
+
+Lab 12: OOP (Classes). 
+
