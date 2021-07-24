@@ -14,3 +14,8 @@ Lab 6: Celsius to Fahrenheit Calculator (Functions).
 Lab 7: Function Overloading.
 
 Lab 8: Function Templates and Multiple Files. 
+
+Lab 9: Arrays.
+
+Lab 10: NTCAs. 
+
