@@ -3,7 +3,7 @@
 
 //1M
 //including the I/O stream libraryM
-#include <iostream>M
+#include <iostream>
 using namespace std;
 
 int main()
