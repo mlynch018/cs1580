@@ -26,3 +26,5 @@ Lab 12: OOP (Classes).
 Lab 13: Overloading Operators in Classes (Friend Functions).
 
 Lab 14: Pointers. 
+
+Lab 15: Dynamic Arrays.
