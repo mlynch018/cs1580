@@ -11,3 +11,6 @@ Lab 5: Menu Using Switch Statements.
 
 Lab 6: Celsius to Fahrenheit Calculator (Functions). 
 
+Lab 7: Function Overloading.
+
+Lab 8: Function Templates and Multiple Files. 
