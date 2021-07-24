@@ -6,3 +6,8 @@ Lab 2: Debugging.
 Lab 3: BMI Calculator. 
 
 Lab 4: Loops.
+
+Lab 5: Menu Using Switch Statements. 
+
+Lab 6: Celsius to Fahrenheit Calculator (Functions). 
+
