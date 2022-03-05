@@ -1,5 +1,5 @@
 # cs1580
-My solutions to the introduction to C++ lab class. In each directory, there is a PDF containing descriptions of every file. 
+My solutions to the introduction to C++ lab. In each directory, there is a PDF containing descriptions of every file. 
 
 Lab 2: Debugging. 
 
